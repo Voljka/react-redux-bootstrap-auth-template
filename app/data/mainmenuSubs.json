@@ -1,0 +1,18 @@
+{
+	"items": [
+		{
+			"elementName": "info",
+			"href" : "/",
+			"subitems": [
+				{
+					"elementName": "about",
+					"href" : "/about"
+				},
+				{
+					"elementName": "author",
+					"href" : "/author"
+				}
+			]
+		}
+	]
+}

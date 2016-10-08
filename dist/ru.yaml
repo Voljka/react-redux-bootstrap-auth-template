@@ -1,0 +1,8 @@
+common:
+
+mainmenu:
+  about:  "О программе"
+  info:   "Информация"
+  author: "Автор"
+
+windows:

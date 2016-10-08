@@ -1,0 +1,3 @@
+const USER_ROLE = 1,
+	ADMINISTRATOR_ROLE = 2
+

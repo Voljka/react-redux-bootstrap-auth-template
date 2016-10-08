@@ -1,0 +1,8 @@
+common:
+
+mainmenu:
+  about:  "About"
+  info:   "Info"
+  author: "Author"
+
+windows:
